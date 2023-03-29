@@ -37,11 +37,6 @@ class ContactsController < ApplicationController
         email: contacts[1].email,
         phone_number: contacts[1].phone_number
       }
-
-
-
-
-
     ]
 
   end 
